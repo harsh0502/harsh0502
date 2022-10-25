@@ -1,4 +1,4 @@
-### Hola ,I am Harshitha👋 !
+### Hola ,I am Harshitha ! 👋 
 
 - 🔭 I’m currently working on creation of an App
 - 🌱 I’m currently learning Designing
