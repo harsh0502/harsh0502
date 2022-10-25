@@ -1,6 +1,6 @@
 ### Hola ,I am Harshitha👋 !
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on creation of an App
 - 🌱 I’m currently learning Designing
 - 👯 I’m looking to collaborate on App development
 - 🤔 I’m looking for help with Web Development Stuff
